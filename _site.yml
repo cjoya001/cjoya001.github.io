@@ -9,7 +9,7 @@ navbar:
     - text: "July"
       href: july.html
     - text: "December"
-      href: December.html
+      href: december.html
     - text: "Sources"
       href: sources.html
 output:
