@@ -1,6 +1,6 @@
 name: "Final Project"
 navbar:
-  title: ""
+  title: "."
   left:
     - text: "Home"
       href: january.html
