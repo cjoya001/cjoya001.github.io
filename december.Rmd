@@ -1,0 +1,12 @@
+---
+title: "December"
+---
+
+## Average Precipitation
+
+
+The following is a average daily precipitation for the month of December over the course of twenty nine years. The highest precipitation in the world is located along the equator, in the the Pacfic Ocean and around the Indian Ocean.
+
+![Daily Precipitation for the Month of December](C:/Users/carlo/Documents/Final/cjoya001.github.io/Data/precip_in_CMAP_precip.mon.ltm_dec.png)
+
+![Daily Precipitation for the Month of December](C:/Users/carlo/Documents/Final/cjoya001.github.io/Data/plot_dec.png)

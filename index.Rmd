@@ -1,0 +1,5 @@
+---
+title: "Geog 490 Final"
+---
+
+This is a page that covers the annual precipitation for the world. Rate that is used to cover the average precipitation is on a monthly basis. The units used to meassure are milimeters per day. The coverage on the map is over the course of twenty nine years. 

@@ -1,0 +1,22 @@
+name: "Final Project"
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+      
+    - text: "January"
+      href: january.html_document
+    
+    - text: "July"
+      href: july.html_document
+    
+    - text: "December"
+      href: December.html
+    
+    - text: "Sources"
+      href: sources.html
+output:
+    html_document:
+    theme: cosmo
+    css: 'styles.css'

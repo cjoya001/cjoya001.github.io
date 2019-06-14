@@ -1,0 +1,7 @@
+---
+title: "Sources"
+---
+
+
+
+All of the information used to create this website was generated from Rstudio. The Data was derived from a website provided by the instructor via globus. Images were created via panoply and converted into a png that was later used to display a map of the average precipitation.
