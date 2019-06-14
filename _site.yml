@@ -4,16 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-      
     - text: "January"
-      href: january.html_document
-    
+      href: january.html
     - text: "July"
-      href: july.html_document
-    
+      href: july.html
     - text: "December"
       href: December.html
-    
     - text: "Sources"
       href: sources.html
 output:
